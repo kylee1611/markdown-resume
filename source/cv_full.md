@@ -28,16 +28,19 @@ khillman@berkeley.edu
 
 <location> Department of Chemical and Biomolecular Engineering, UC Berkeley, PI: [Markita Landry](https://landrylab.com/) </location>
 
+- Developing nanoparticle-based biological cargo delivery in algae 
+- Purifying RNP complexes for delivery to maize microscpores 
+
 ### Lab Technician <time> Aug 2022 - May 2024</time>
 <location> Donald Danforth Plant Science Center, St. Louis, MO, PI: [Ru Zhang](https://www.ruzhanglab.org/) </location>
 - Characterized the function of a novel thermotolerance gene using molecular techniques, multidimensional phenotyping, and fluorescence microscopy
-- Developed imaging pipeline for lab use
+- Developed microscopy pipeline for lab use
 - Optimized western protocol to get publication quality images
 
 ### NSF Research Experiences for Undergradutes Intern <time> Jun 2021 - Aug 2021 </time>
 <location> College of Enigneering, Utah State University, PI: [Jixun Zhan](https://engineering.usu.edu/be/faculty-sites/metabolicengineering/) </location>
 
-  - Constucted and transformed various plasmids into E.coli for expression of gene of interest
+  - Constucted and transformed various plasmids into E.coli for improved curcumin biosynthesis 
   - Quantified curcumin production from each plasmid using HPLC
 
 
@@ -45,7 +48,7 @@ khillman@berkeley.edu
 
 <location> Department of Biological Sciences, Florida State University, PI: [Emily Lemmon](https://www.bio.fsu.edu/chorusfrog/) </location>
 
-- Extracted and prepped samples for sequencing 
+- Extracted DNA and prepped samples for sequencing 
 - Analyzed, visualized and compared resulting genetic data and phenotypic data in R to draw conclusions about speciation events in chorus frogs
   
 ## Honors & Awards
@@ -119,7 +122,8 @@ khillman@berkeley.edu
 
 <location> The Magic House, St. Louis, MO </location>
 
-- Greeted museaum guessta nd directed them towards requested activities 
+- Greeted museum guests and directed them towards requested activities 
+- Set up and cleaned up activities and experiments 
 - Guided childeren with hands on activities such as 3D pritning and laser cuttting 
 
 ### REU Mentor <time> May - Aug 2023 </time>
